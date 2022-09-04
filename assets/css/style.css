@@ -1,0 +1,15 @@
+.my-custom-scrollbar {
+position: relative;
+height: 200px;
+overflow: auto;
+}
+.table-wrapper-scroll-y {
+display: block;
+}
+.text{
+text-align: center;
+}
+.spasi{
+	padding-left: 1.8em;
+}
+#main-wrapper { position: relative; }

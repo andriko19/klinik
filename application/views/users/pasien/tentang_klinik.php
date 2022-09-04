@@ -1,0 +1,19 @@
+    <!-- Begin Page Content -->
+    <div class="container-fluid">
+      <!-- Page Heading -->
+      <h1 class="h3 mb-4 text-gray-800"> <?= $title;?> </h1>
+    </div>
+    <!-- /.container-fluid -->
+    <div class="container">
+      <h1 class="h3 mb-1 text-gray-800">Seputar Tentang Kami!...</h1>
+          <p class="mb-4 text-justify">&emsp;Klinik Kandungan dr.Iman, Sp.OG merupakan klinik kandungan yang didirikan pada awal tahun 2015, berlokasi di Jl. Kendung No.61, Kelurahan Sememi, Kecamatan Benowo, Surabaya. Klinik ini didirikan oleh dokter spesialis kandungan yang bernama dr.Iman Rachmanto, Sp.OG, yang notabene menjadi dokter spesialis kandungan di beberapa rumah sakit khususnya wilayah Surabaya Barat. dr.Iman, Sp.OG menjadi dokter spesialis di beberapa rumah sakit seperti Rumah Sakit Islam Darus Syifa, Rumah Sakit Bhakti Dharma Husada, dan Rumah Bersalin Lombok Dua Dua Lontar. dr.Iman, Sp.OG membuka klinik kandungan ini sebagai bentuk pengabdian ilmu, kepada masyarakat sekitar yang membutuhkan tenaga medis khususnya di bidang kandungan, baik kehamilan maupun seputar kandungan lainnya.
+          Pada awal berdirinya Klinik Kandungan dr.Iman, Sp.OG, klinik ini memiliki 2 karyawan ( Resepsionis dan Asisten Dokter ) sebagai tenaga pembantu dokter saat jadwal praktek. Sistem pendaftaran yang digunakan ialah sistem pendaftaran manual, dengan cara pasien datang langsung mendaftarkan diri ke resepsionis kemudian pasien menunggu hingga nomor antriannya dipanggil. Alat pemeriksaan USG yang digunakan ialah menggunakan USG 2D. Jadwal praktek klinik dilaksanakan pada hari Selasa dan Jumat pada pukul 18.00 hingga 22.00 wib, dengan kisaran jumlah pasien 15 orang.
+          Seiring berjalannya waktu, Klinik Kandungan dr.Iman, Sp.OG semakin banyak dikenal oleh masyarakat luas. Dalam periode 5 tahun terakhir, klinik ini mengalami banyak perkembangan, baik dari segi pembangunan, jumlah SDM, upgrade kecanggihan alat medis, sistem pendaftaran, dan peningkatan jumlah pasien. Pada tahun 2019 ini, Klinik Kandungan dr.Iman, Sp.OG, telah memiliki 6 karyawan, diantaranya ialah 2 orang Asisten Dokter, 1 orang Resepsionis, 1 orang Apoteker, dan 2 orang bagian Keamanan. Kini alat medis yang digunakan telah menggunakan alat USG 4D, yang memiliki kemampuan lebih baik dari USG 2D. Alat USG 4D ini belum tersedia di beberapa rumah sakit khususnya wilayah Surabaya Barat. Dengan tersedianya alat USG 4D ini membuat jumlah pasien Klinik Kandungan dr.Iman,Sp.OG semakin meningkat, bahkan tidak jarang pasien luar kota seperti Gresik, Sidoarjo, Mojokerto, dan Lamongan pun memeriksakan dirinya ke klinik tersebut. Sistem antrian yang diberlakukan sekarang juga sudah berbasis online, sehingga pasien yang bertempat tinggal jauh dari klinik dapat melakukan pendaftaran dengan mudah. Dengan bertambahnya jumlah pasien, jadwal praktek klinik pun bertambah yakni pada hari Selasa, Kamis dan Jumat. Praktek dimulai pada pukul 18.00 hingga 24.00 wib.
+          Beberapa fasilitas yang kini tersedia di Klinik Kandungan dr.Iman, Sp.OG adalah: Ruang pemeriksaan, Apotek, Ruang emergency, Ruang tunggu, Tempat bermain anak, Kantin mini, Mushollah, Kamar mandi,Parkir</p>
+          <h1 class="h3 mb-1 text-gray-800">Visi Kami</h1>
+          <p lass="mb-4 text-justify">Visi Klinik Kandungan dr.Iman, Sp.OG ialah Menciptakan klinik dengan pelayanan kesehatan kebidanan dan kandungan yang prima serta professional.</p>
+           <h1 class="h3 mb-1 text-gray-800">Misi Kami</h1>
+          <P lass="mb-4 text-justify"> Misi Klinik Kandungan dr.Iman, Sp.OG ialah Memberikan pelayanan secara professional, Menjalankan pengobatan sesuai prosedur SOP dan dapat terjangkau oleh semua kalangan masyarakat.</P>
+	 </div>
+</div>
+<!-- End of Main Content -->
